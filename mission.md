@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-team lead: David Peter Zulu
-=======
 Team lead: DONALD MAZOLE
->>>>>>> feature-D
+Team lead: David Peter Zulu
